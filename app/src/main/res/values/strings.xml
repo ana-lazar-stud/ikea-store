@@ -21,4 +21,12 @@
     <string name="category">Category</string>
     <string name="isle">Isle</string>
     <string name="save">SAVE</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="invalid_name">Name must be filled</string>
+    <string name="invalid_description">Description must be filled</string>
+    <string name="invalid_category">Category must be filled</string>
+    <string name="invalid_company">Company must be filled</string>
+    <string name="invalid_isle">Isle must be filled</string>
+    <string name="invalid_quantity">Quantity must be integer</string>
+    <string name="cancel">CANCEL</string>
 </resources>
